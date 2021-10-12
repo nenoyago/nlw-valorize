@@ -18,8 +18,8 @@
 
 - Registration of Compliments
 
-  [ ] A user is not allowed to register a compliment for themselves
+  [ x ] A user is not allowed to register a compliment for themselves
 
-  [ ] It is not allowed to register compliments for invalid users
+  [ x ] It is not allowed to register compliments for invalid users
 
-  [ ] The user must be authenticated in the application
+  [ x ] The user must be authenticated in the application
